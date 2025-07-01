@@ -3,7 +3,7 @@
 *🎓 Currently studying Bachelors of Science in Computer Science and Master of Science in Computer Science at Mapúa University*
   
 - 🏗️ Building projects in React, Node.js, Angular, and Spring
-- 📑 Experienced in MySQL
+- 📑 Experienced in MySQL and PostgresQL
 - 📱 Experienced in React Native, Flutter, and Kotlin
 - ⚙️ Has some experience with Assembly Language (TASM, NASM) & is interested in low-level programming
 - 🤖 Well-versed in machine learning models
