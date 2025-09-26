@@ -32,6 +32,3 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/masumizuu)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/masumizuu)
 
-
-### 📊 My GitHub Stats (I'm still a newbie)
-![Ceanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masumizuu&show_icons=true&theme=radical)
