@@ -1,12 +1,13 @@
 ## Hi there, I'm Ceanne [Masumizuu] 👋
 ### 🚀 Aspiring Game Developer
 *🎓 Currently studying Bachelors of Science in Computer Science and Master of Science in Computer Science at Mapúa University*
-  
-- 🏗️ Building projects in React, Node.js, Angular, and Spring
-- 📑 Experienced in MySQL and PostgresQL
-- 📱 Experienced in React Native, Flutter, and Kotlin
-- ⚙️ Has some experience with Assembly Language (TASM, NASM) & is interested in low-level programming
-- 🤖 Well-versed in machine learning models
+
+- 🏗️ Building projects in React, Node.js, Angular, and Spring  
+- 📑 Experienced in MySQL and PostgreSQL  
+- 📱 Experienced in React Native, Flutter, and Kotlin  
+- ⚙️ Has some experience with Assembly Language (TASM, NASM) & is interested in low-level programming  
+- 🤖 Well-versed in machine learning models  
+- ☁️ AWS Certified Solutions Architect – Associate (Nov 2025)
 
 ### 🚀 Tech Stack
 
@@ -24,6 +25,17 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
+### ☁️ AWS Experience
+
+- ⚡ Compute & Serverless: Lambda, EC2  
+- 🔐 Security & Access: IAM  
+- 🌐 Frontend & Hosting: Amplify  
+- 📊 Analytics: QuickSight, Glue, Athena  
+- 🤖 Machine Learning: SageMaker  
+- 🗄️ Storage: S3  
+- 🧾 Databases: DynamoDB  
+- 📈 Monitoring: CloudWatch  
+- 🧩 Others: Kiro  
 
 ### 🌐 Connect with Me
 
@@ -31,4 +43,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/masumizuu)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/masumizuu)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/masumizuu)
-
